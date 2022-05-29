@@ -9,11 +9,12 @@ This is a project based on Data Analysis made using Power Bi for Microsoft Engag
 - Bootstrap
 
 ## Way to Login
+Go to Power BI site https://powerbi.microsoft.com/en-au/
+click sign in and enter the my credentials then
 - Open the index.html file
 
 ![image](https://user-images.githubusercontent.com/91279248/170867861-0bd8aa60-37d2-4ff5-b0f3-c4e988dc327e.png)
 
-- Fill in the Login credentials
 - select on which basis u want the analysis to happen that will download the file
 
 ![image](https://user-images.githubusercontent.com/91279248/170867905-3379e65d-a57d-4961-96e2-4ae5eec5870f.png)
