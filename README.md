@@ -10,7 +10,7 @@ This is a project based on Data Analysis made using Power Bi for Microsoft Engag
 
 ## Way to Login
 Go to Power BI site https://powerbi.microsoft.com/en-au/
-click sign in and enter the credentials provided (in the form) then
+click sign in and enter the credentials
 - Open the index.html file
 
 - select on which basis u want the analysis to happen that will download the file
